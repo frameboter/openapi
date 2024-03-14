@@ -1,4 +1,4 @@
-package com.roboter5123.config;
+package com.frameboter.config;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.servers.Server;
