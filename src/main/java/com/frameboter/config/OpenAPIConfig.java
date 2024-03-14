@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Bean;
 @Configuration
 public class OpenAPIConfig {
 
-    @Value("${server.servlet.context-path}")
+    @Value("${server.servlet.context-path:}")
     private String url;
 
     @Bean
