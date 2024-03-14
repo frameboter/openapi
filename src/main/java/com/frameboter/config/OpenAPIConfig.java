@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean
 import org.springframework.context.annotation.Bean;
 
 @Configuration
-@ConditionalOnMissingBean
 public class OpenAPIConfig {
 
     @Value("${server.servlet.context-path}")
