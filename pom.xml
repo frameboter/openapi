@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.frameboter</groupId>
     <artifactId>openapi</artifactId>
-    <version>0.1.0</version>
+    <version>0.2.0-SNAPSHOT</version>
     <name>open-api</name>
     <description>openapi</description>
     <properties>
